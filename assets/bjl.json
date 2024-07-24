@@ -1,0 +1,81 @@
+{
+    "MaterialIcons": false,
+    "Variants": [
+        {
+            "Scale": 1,
+            "Height": 600,
+            "Width": 600
+        }
+    ],
+    "LayoutHeader": {
+        "Version": 5,
+        "DesignerScript": [
+            "'All variants script\n",
+            "'Variant specific script: 600x600,scale=1\n"
+        ],
+        "GridSize": 5,
+        "ControlsHeaders": [
+            {
+                "JavaType": ".PaneWrapper$ConcretePaneWrapper",
+                "DesignerType": "Pane",
+                "Name": "Main"
+            },
+~MAKEBXL_CONTROLS_HEADERS~
+        ],
+        "Files": []
+    },
+    "Data": {
+        "parent": "",
+        "borderColor": {
+            "ValueType": 6,
+            "Value": "0xFF000000"
+        },
+        "drawable": {
+            "color": {
+                "ValueType": 6,
+                "Value": "0xFFF0F8FF"
+            },
+            "csType": "Dbasic.Designer.Drawable.ColorDrawable",
+            "colorKey": "-fx-background-color",
+            "type": "ColorDrawable"
+        },
+        "orientation": "INHERIT",
+        "visible": true,
+        ":kids": {
+            ~MAKEBXL_KIDS~
+        },
+        "csType": "Dbasic.Designer.MetaMain",
+        "handleResizeEvent": true,
+        "type": ".PaneWrapper$ConcretePaneWrapper",
+        "title": "Form",
+        "enabled": true,
+        "variant0": {
+            "top": 0,
+            "left": 0,
+            "hanchor": 0,
+            "width": 200,
+            "vanchor": 0,
+            "height": 200
+        },
+        "cornerRadius": {
+            "ValueType": 7,
+            "Value": 0
+        },
+        "javaType": ".PaneWrapper$ConcretePaneWrapper",
+        "duration": 0,
+        "file": "",
+        "borderWidth": {
+            "ValueType": 7,
+            "Value": 0
+        },
+        "alpha": {
+            "ValueType": 7,
+            "Value": 1
+        },
+        "name": "Main",
+        "eventName": "MainForm",
+        "extraCss": "",
+        "tag": ""
+    },
+    "FontAwesome": false
+}
