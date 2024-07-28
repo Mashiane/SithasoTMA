@@ -4,7 +4,7 @@
             <input id="taskdone" name="taskdone" type="checkbox" class="checkbox checkbox-success">
         </div>
         <div id="taskcolb" class="col sm:col-span-6 md:col-span-6 lg:col-span-6 xl:col-span-6">
-            <p id="taskname">Task Name</p>
+            <p id="taskname">{task}</p>
         </div>
         <div id="taskcolc" class="col sm:col-span-2 md:col-span-2 lg:col-span-2 xl:col-span-2 flex justify-center items-center">
             <div id="btntaskedit_indicator" class="indicator">
