@@ -1,19 +1,19 @@
-<li id="taskitem" class="text-">
-    <div id="taskrow" class="row px-2 py-0 grid-cols-12 grid text-">
-        <div id="taskcol1" class="col sm:col-span-2 md:col-span-2 lg:col-span-2 xl:col-span-2 text-">
+<li id="taskitem">
+    <div id="taskrow" class="row px-2 py-0 grid-cols-12 grid">
+        <div id="taskcol1" class="col sm:col-span-2 md:col-span-2 lg:col-span-2 xl:col-span-2">
             <input id="taskdone" name="taskdone" type="checkbox" class="checkbox checkbox-success" value="">
         </div>
-        <div id="taskcol2" class="col sm:col-span-6 md:col-span-6 lg:col-span-6 xl:col-span-6 text-">
-            <p id="taskname" class="text-">Task Name</p>
+        <div id="taskcol2" class="col sm:col-span-6 md:col-span-6 lg:col-span-6 xl:col-span-6">
+            <p id="taskname">Task Name</p>
         </div>
-        <div id="taskcol3" class="col sm:col-span-2 md:col-span-2 lg:col-span-2 xl:col-span-2 flex justify-center items-center text-">
+        <div id="taskcol3" class="col sm:col-span-2 md:col-span-2 lg:col-span-2 xl:col-span-2 flex justify-center items-center">
             <div id="btntaskedit_indicator" class="indicator">
                 <button id="btntaskedit" class="btn btn-circle btn-sm btn-neutral tooltip-left">
                     <span><i id="btntaskedit_icon" class="fa-solid fa-pencil fa-sm"></i></span>
                 </button>
             </div>
         </div>
-        <div id="taskcol4" class="col sm:col-span-2 md:col-span-2 lg:col-span-2 xl:col-span-2 flex justify-center items-center text-">
+        <div id="taskcol4" class="col sm:col-span-2 md:col-span-2 lg:col-span-2 xl:col-span-2 flex justify-center items-center">
             <div id="btntaskdelete_indicator" class="indicator">
                 <button id="btntaskdelete" class="btn btn-circle btn-sm btn-neutral bg-[#ff0000] tooltip-left">
                     <span><i id="btntaskdelete_icon" class="fa-solid fa-trash fa-sm"></i></span>
