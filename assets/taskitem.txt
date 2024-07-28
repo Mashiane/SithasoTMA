@@ -1,7 +1,7 @@
 <li id="taskitem">
     <div id="taskrow" class="row px-2 py-0 grid-cols-12 grid">
         <div id="taskcol1" class="col sm:col-span-2 md:col-span-2 lg:col-span-2 xl:col-span-2">
-            <input id="taskdone" name="taskdone" type="checkbox" class="checkbox checkbox-success" value="">
+            <input id="taskdone" name="taskdone" type="checkbox" class="checkbox checkbox-success">
         </div>
         <div id="taskcol2" class="col sm:col-span-6 md:col-span-6 lg:col-span-6 xl:col-span-6">
             <p id="taskname">Task Name</p>
